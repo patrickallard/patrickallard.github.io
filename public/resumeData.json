@@ -1,0 +1,92 @@
+{
+  "main": {
+    "name": "Patrick's { Portfolio }",
+    "github": "https://github.com/patrickallard",
+    "description":"I am a web developer who is passionate about programming and language",
+    "resumeDownload": "",
+    "image":"profile.jpeg",
+    "bio":"I am a lifelong learner with an insatiable curiosity and a love for learning! I have recently settled down in Denver, Colorado where I work as a full stack developer for York Solutions. Outside of work, I am an avid rock climber, mountain biker, musician and writer. I love to travel, and I enjoy reading crunchy technical literature while on the move. One day, I hope to write my own interpreter, but for now, building robust and sophisticated web applicaitons is keeping me busy!",
+    "email": "patrickjamesallard@gmail.com",
+    "address":{
+      "city": "Denver",
+      "state":"Colorado"
+    },
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/p-allard/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/patrickallard",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Montana State University",
+        "degree":"Bachelors of Science in Business Marketing",
+        "graduated":"May 2019",
+        "description":"Contributing member of Montana States' American Marketing Association (AMA) chapter."
+      }
+    ],
+    "work":[
+      {
+        "company":"York Solutions",
+        "title":"Software Development Constultant",
+        "years":"November 2022 - Present",
+        "description":"Developed by York Solutions, Barriers to Entry is a comprehensive, intense program created to prepare people to move into entry level software development roles. This interactive training covers Java, Full Stack, soft skills, methodologies, concepts, principles, & practices."
+      },
+      {
+        "company":"Eslmere Education",
+        "title":"Email Marketing Specialist",
+        "years":"Janurary 2022 - June 2022",
+        "description":"Built emails using HTML, CSS, and JavaScript for multi-channel email marketing campaigns."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JAVA",
+        "level":"45%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"45%"
+      },
+      {
+        "name":"C++",
+        "level":"30%"
+      },
+      {
+        "name":"Python",
+        "level":"30%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Pantry App",
+        "category":"Pantry app used to ",
+        "image":"./portfolio/pantryapp.png",
+        "url":"https://github.com/patrickallard/york-pantry-app"
+      },
+      {
+        "title":"Budget App",
+        "category":"Budget app used to track accounts, budgets, and transactions",
+        "image":"download.jpeg",
+        "url":"https://github.com/patrickallard/budget-app"
+      },
+      {
+        "title":"Retail Store",
+        "category":"App built collaborating with 9 other developers",
+        "image":"retailStore.png",
+        "url":"https://github.com/patrickallard/retail-store-app"
+      }
+    ]
+  }
+}
