@@ -1,4 +1,4 @@
-# React Nice Resume :
+# React Portfolio :
 ### [LIVE DEMO](https://patrickallard.github.io/)
 
 # About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
