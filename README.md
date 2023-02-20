@@ -3,9 +3,9 @@
 
 # About [`particles-bg`](https://github.com/lindelof/particles-bg) Library
 #### This project uses the react particle background component library and the react-reveal animations library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg).
-![img](https://github.com/lindelof/particles-bg/raw/master/image/03.jpg?raw=true)
 
 # Description
+Built using React, this web application demonstrates my proficiency with React, and is a beautiful platform to showcase my other works. 
 
 # Run Project
 ### 1. Clone the project
